@@ -1,0 +1,1 @@
+print("cyan is a color; cayenne is a pepper.")
